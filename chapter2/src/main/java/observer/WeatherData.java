@@ -6,8 +6,6 @@ import java.util.Observable;
 /**
  *  It is subject of observer pattern
  *  This push a new data to observer
- *  @author: voronyansky
- *  @since: 24.06.2016
  */
 public class WeatherData extends Observable {
 

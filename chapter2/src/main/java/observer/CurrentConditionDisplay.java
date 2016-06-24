@@ -5,8 +5,6 @@ import java.util.Observer;
 
 /**
  * Implement of observer, it is screen of now time condition
- * @author: voronyansky
- * @sicnce: 24.06.2016
  */
 public class CurrentConditionDisplay implements Observer, DisplayElement {
 

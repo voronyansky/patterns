@@ -2,8 +2,6 @@ package observer;
 
 /**
  *  Launcher for testing observer pattern
- *  @author: voronyansky
- *  @since: 24.06.2016
  */
 public class WeatherStation {
 
