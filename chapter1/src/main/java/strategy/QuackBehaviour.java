@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * Created by Egor on 24.06.2016.
+ * It must implement all class which implement quack behaviour
  */
 public interface QuackBehaviour {
 

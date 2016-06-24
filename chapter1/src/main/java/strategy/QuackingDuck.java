@@ -1,7 +1,8 @@
 package strategy;
 
 /**
- * Created by Egor on 24.06.2016.
+ * Quacking ducks, we determine quack behaviour of this duck
+ * by assign the instance of class behaviour
  */
 public class QuackingDuck extends Duck {
 

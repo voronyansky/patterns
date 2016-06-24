@@ -5,6 +5,9 @@ package strategy;
  */
 public class LoudQuack implements QuackBehaviour {
 
+    /**
+     * It duck loud quacking
+     */
     public void quack() {
         System.out.println("Quack - quack, motherfucker!");
     }

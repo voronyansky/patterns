@@ -6,6 +6,9 @@ package strategy;
  */
 public class HighFly implements FlyBehaviour {
 
+    /**
+     * It duck fly at the console
+     */
     public void fly() {
         System.out.println("I am fly at the sky!");
     }

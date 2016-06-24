@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="947824cb-78c8-4dfe-9de6-16874e4d0d64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" />
     </list>
     <ignored path="patterns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +33,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
+      <file leaf-file-name="QuackingDuck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+              <folding>
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Starter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.12">
-              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -68,11 +86,8 @@
         <option value="$PROJECT_DIR$/chapter1/src/main/java/pattern/QuackingDuck.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/pattern/Starter.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/pattern/Duck.java" />
-        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyingDuck.java" />
-        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
-        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" />
         <option value="$PROJECT_DIR$/chapter1/README.md" />
         <option value="$PROJECT_DIR$/chapter2/README.md" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/Subject.java" />
@@ -82,6 +97,12 @@
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" />
+        <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" />
       </list>
     </option>
   </component>
@@ -178,7 +199,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter2" />
+              <option name="myItemId" value="chapter1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -192,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter2" />
+              <option name="myItemId" value="chapter1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -210,7 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter2" />
+              <option name="myItemId" value="chapter1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -226,7 +247,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="observer" />
+              <option name="myItemId" value="strategy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -725,12 +746,12 @@
       <workItem from="1466724113503" duration="254000" />
       <workItem from="1466724683816" duration="1394000" />
       <workItem from="1466726132310" duration="116000" />
-      <workItem from="1466764666037" duration="5628000" />
+      <workItem from="1466764666037" duration="6149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7392000" />
+    <option name="totallyTimeSpent" value="7913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="7" />
@@ -810,8 +831,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,8 +842,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
           <folding>
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -853,8 +874,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
-            <element signature="e#129#130#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -874,46 +895,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63909775">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -932,36 +918,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-          <folding>
-            <element signature="e#164#165#0" expanded="false" />
-            <element signature="e#230#231#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#129#130#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,10 +970,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6">
+          <caret line="46" column="73" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12">
           <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyingDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
           <folding />
         </state>
       </provider>
