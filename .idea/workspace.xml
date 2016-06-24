@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="947824cb-78c8-4dfe-9de6-16874e4d0d64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" afterPath="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" afterPath="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" afterPath="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java" afterPath="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" afterPath="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
     </list>
     <ignored path="patterns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,25 +31,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuackingDuck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java">
+      <file leaf-file-name="DisplayElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-              </folding>
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Starter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
+      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.36">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentConditionDisplay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,16 +110,16 @@
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/Subject.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/Observer.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/StaticDisplay.java" />
-        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/FlyBehaviour.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/HighFly.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" />
+        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" />
+        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" />
+        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java" />
       </list>
     </option>
   </component>
@@ -199,7 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
+              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,13 +230,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
+              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -231,7 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
+              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -247,7 +268,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="strategy" />
+              <option name="myItemId" value="observer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -746,12 +767,12 @@
       <workItem from="1466724113503" duration="254000" />
       <workItem from="1466724683816" duration="1394000" />
       <workItem from="1466726132310" duration="116000" />
-      <workItem from="1466764666037" duration="6149000" />
+      <workItem from="1466764666037" duration="6431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7913000" />
+    <option name="totallyTimeSpent" value="8195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="7" />
@@ -935,41 +956,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-          <folding>
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1392#1393#0" expanded="true" />
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1559#1560#0" expanded="true" />
-            <element signature="e#1681#1682#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32">
-          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6">
@@ -982,14 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -1029,9 +1007,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.16">
           <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding>
             <element signature="e#201#202#0" expanded="true" />
@@ -1040,10 +1026,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/src/main/java/strategy/Starter.java">
+    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
