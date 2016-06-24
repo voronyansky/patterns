@@ -41,21 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.76">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,10 +116,10 @@
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/LoudQuack.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackBehaviour.java" />
         <option value="$PROJECT_DIR$/chapter1/src/main/java/strategy/QuackingDuck.java" />
-        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/DisplayElement.java" />
         <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java" />
+        <option value="$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java" />
       </list>
     </option>
   </component>
@@ -141,9 +141,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1376" />
+    <option name="x" value="-280" />
+    <option name="y" value="31" />
+    <option name="width" value="932" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -767,15 +767,15 @@
       <workItem from="1466724113503" duration="254000" />
       <workItem from="1466724683816" duration="1394000" />
       <workItem from="1466726132310" duration="116000" />
-      <workItem from="1466764666037" duration="6431000" />
+      <workItem from="1466764666037" duration="6732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8195000" />
+    <option name="totallyTimeSpent" value="8496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="784" extended-state="7" />
+    <frame x="-280" y="31" width="932" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -788,7 +788,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37117904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1026,18 +1026,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/CurrentConditionDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1054,8 +1046,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/src/main/java/observer/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
