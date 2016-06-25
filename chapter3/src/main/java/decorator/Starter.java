@@ -1,7 +1,7 @@
 package decorator;
 
 /**
- * Created by Egor on 24.06.2016.
+ * Test of decorator.
  */
 public class Starter {
 
