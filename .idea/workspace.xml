@@ -25,32 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Beverage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Beverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CondimentDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/CondimentDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Mocha.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Mocha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="476">
               <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-              <folding />
+              <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,9 +43,14 @@
       <file leaf-file-name="Soy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Soy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
-              <folding />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +58,8 @@
       <file leaf-file-name="Starter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -78,9 +68,14 @@
       <file leaf-file-name="Whip.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Whip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="527">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,8 +96,8 @@
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Espresso.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Mocha.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Beverage.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Mocha.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Soy.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Starter.java" />
         <option value="$PROJECT_DIR$/chapter3/src/main/java/decorator/Whip.java" />
@@ -549,30 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Beverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -589,11 +560,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/decorator/Mocha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="476">
           <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
