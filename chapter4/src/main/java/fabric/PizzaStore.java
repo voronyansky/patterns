@@ -6,8 +6,17 @@ package fabric;
  */
 abstract class PizzaStore {
 
+    private SimplePizzaFactory pizzaFactory;
+
+    public PizzaStore(SimplePizzaFactory factory) {
+        this.pizzaFactory = factory;
+    }
+
+    public PizzaStore() {
+
+    }
     public Pizza orderPizza(String type) {
-        Pizza pizza = createPizza(type);
+        Pizza pizza = this.createPizza(type);
         pizza.prepare();
         pizza.bake();
         pizza.cut();
@@ -15,6 +24,11 @@ abstract class PizzaStore {
         return pizza;
     }
 
+    /**
+     * Create a pizza by choose in dependency.
+     * @param type name of pizza.
+     * @return new pizza.
+     */
     public abstract Pizza createPizza(String type);
 
 

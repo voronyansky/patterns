@@ -10,9 +10,9 @@ public class SimplePizzaFactory {
 
     public Pizza orderPizza(String type) {
         if(type.equals("cheese"))
-            pizza = null;
+            pizza = new CheesePizza("asd","asd","asd");
         else if(type.equals("pepperoni"))
-            pizza = null;
+            pizza = new PepperoniPizza("P","1","ad");
         return pizza;
     }
 }
